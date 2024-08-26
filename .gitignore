@@ -1,0 +1,13 @@
+RunAsService/bin/
+RunAsService/obj/
+RunAsService/.vs/
+RunAsService/packages/
+RunAsService/AppInstaller/
+WindowsLogAdapter/bin/
+WindowsLogAdapter/obj/
+RunAsServiceInstaller/
+RunAsServiceConsole/bin/
+RunAsServiceConsole/obj/
+PipeToConsole/bin/
+PipeToConsole/obj/
+RunAsService/Targets.txt
